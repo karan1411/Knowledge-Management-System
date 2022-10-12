@@ -1,0 +1,65 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-image: url('images.jpg'); 
+    font-family: 'Arial';  
+}  
+
+.contact{  
+    width: 382px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 80px;  
+    background: #00aeff;  
+    border-radius: 15px ;  
+      
+}  
+
+h1{  
+    text-align: center;  
+    color: #1a5244;  
+    padding: 20px;  
+}  
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+
+
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+
+#Email{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px; 
+          
+}  
+
+#Subject{
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+
+}
+
+#Message{
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}
+
+
